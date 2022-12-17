@@ -47,7 +47,7 @@ This schema defines a table called yoga in a PostgreSQL database. The table has 
 - email: A string representing the student's email address, which is also used as the primary key for the table.
 * gender: A string representing the student's gender.
 + name: A string representing the student's name.
-- status: A string representing the student's enrollment status.
+- status: A string representing the student's payment status.
 * number: A unique big integer representing the student's phone number.
 + date_of_joining: A date representing the date on which the student joined the program.
 - date_of_expiry: A date representing the date on which the student's enrollment expires.
