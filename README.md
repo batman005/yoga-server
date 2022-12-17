@@ -31,6 +31,9 @@ npm start
 nodemon index.js
 ```
 
+this is the ER Diagram of the DATABASE
+
+![ERDiagram](https://user-images.githubusercontent.com/51878340/208255937-22a0a463-f376-491b-8c3a-cdc2a310aef5.png)
 
 
 
