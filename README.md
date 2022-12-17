@@ -41,9 +41,9 @@ I have implemented the database for this application using PostgreSQL and the ba
 About my Yogatable Schema
 This schema defines a table called yoga in a PostgreSQL database. The table has the following columns:
 
--yoga_id: A unique serial identifier for each row in the table.
--batch: A string representing the batch in which the student is enrolled.
--dob: A date representing the student's date of birth.
+- yoga_id: A unique serial identifier for each row in the table.
+* batch: A string representing the batch in which the student is enrolled.
++ dob: A date representing the student's date of birth.
 -email: A string representing the student's email address, which is also used as the primary key for the table.
 -gender: A string representing the student's gender.
 -name: A string representing the student's name.
