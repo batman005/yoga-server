@@ -10,16 +10,26 @@ npm
 Installation
 Clone the repository to your local machine:
 Copy code
+```
 git clone https://github.com/batman005/yoga-server.git
+```
 Navigate to the project directory:
 Copy code
+```
 cd yoga-server
+
+```
 Install the project dependencies:
 Copy code
+```
 npm install
+```
 Start the server:
 Copy code
-npm start or nodemon index.js
+```
+npm start 
+nodemon index.js
+```
 
 
 
